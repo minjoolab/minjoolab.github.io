@@ -21,7 +21,7 @@ user:
   name: 김민주
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 개발자, 보안전문가를 꿈꾸는 학생
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
