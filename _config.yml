@@ -6,7 +6,7 @@ description: 개발자, 보안전문가가 되기 위한 과정을 기록하는 
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 
-baseurl: "/minjoolab" # the subpath of the site
+baseurl: "" # the subpath of the site
 url: https://minjoolab.github.io/ # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
